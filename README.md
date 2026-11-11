@@ -32,7 +32,7 @@ O dashboard apresenta indicadores financeiros e operacionais que permitem:
 
 ## Demonstração
 
-![Dashboard de Ordens de Serviço](dashboard.png)
+![Dashboard de Ordens de Serviço](Dashboard.png)
 
 ## Objetivo do projeto
 
